@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: disconf
+logging:
+  config: classpath:log4j2.xml
